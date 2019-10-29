@@ -14,7 +14,7 @@ Run
 python run_local_test.py -dataset_dir=./sample_data/DEMO -code_dir=./code_submission
 ```
 
-You can change the argument `dataset_dir` to other datasets, and change the argument `dataset_dir` to the directory containing this code (`model.py`).
+You can change the argument `dataset_dir` to other datasets, and change the argument `code_dir` to the directory containing this code (`model.py`).
 
 ## Basic Solution
 
