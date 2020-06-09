@@ -29,4 +29,4 @@ You can get the dataset format form [here](https://www.4paradigm.com/competition
 - Feng Cheng, NJU, [hazzacheng@gmail.com](mailto:hazzacheng@gmail.com)
 - Zhuoer Xu, NJU, [xuzhuoer.rex@gmail.com](mailto:xuzhuoer.rex@gmail.com)
 - Wenjie Wang, NJU, [wjwangpt@gmail.com](mailto:wjwangpt@gmail.com)
-- Mengchuan Qiu, NJU, [mengchuan.qiu@smail.nju.edu.cn](mailto:mengchuan.qiu@smail.nju.edu.cn)
+- Mengchuan Qiu, NJU, [mecthew.qiu@gmail.com](mailto:mecthew.qiu@gmail.com)
